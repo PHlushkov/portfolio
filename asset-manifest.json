@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.01f86024.css",
+    "main.js": "/portfolio/static/js/main.77580940.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/frontEndPro.pdf": "/portfolio/static/media/frontEndPro.6d0dd73f689b8cd84ccc.pdf",
+    "static/media/phlushkov.jpg": "/portfolio/static/media/phlushkov.c0860a85397836316356.jpg",
+    "static/media/frontEndBasic.pdf": "/portfolio/static/media/frontEndBasic.2e0390ac9f0dea367c42.pdf",
+    "static/media/bacfroundImg.png": "/portfolio/static/media/bacfroundImg.ec1d2c90e2696e3be1a5.png",
+    "static/media/furnitureStoreScreen2.png": "/portfolio/static/media/furnitureStoreScreen2.383a6940405ecf8e5a6e.png",
+    "static/media/frontEndPro.png": "/portfolio/static/media/frontEndPro.c8019623c8f18d982eee.png",
+    "static/media/frontEndBasic.png": "/portfolio/static/media/frontEndBasic.d8db4779cd0626e7aaba.png",
+    "static/media/furnitureStoreScreen1.png": "/portfolio/static/media/furnitureStoreScreen1.b6ee7821bc6618ca7597.png",
+    "static/media/furnitureStoreScreen3.png": "/portfolio/static/media/furnitureStoreScreen3.309f6cc2baa603263919.png",
+    "static/media/lokaliseScreen4.png": "/portfolio/static/media/lokaliseScreen4.108ddc003a58c700ab55.png",
+    "static/media/lokaliseScreen1.png": "/portfolio/static/media/lokaliseScreen1.543a3b293ac8ac60c716.png",
+    "static/media/furnitureStoreScreen4.png": "/portfolio/static/media/furnitureStoreScreen4.e6f20f2cca492af824fc.png",
+    "static/media/lokaliseScreen3.png": "/portfolio/static/media/lokaliseScreen3.d16ac62145909278bde4.png",
+    "static/media/PHlushkovCv.pdf": "/portfolio/static/media/PHlushkovCv.8d071807def2da4c5bdf.pdf",
+    "static/media/lokaliseScreen2.png": "/portfolio/static/media/lokaliseScreen2.8d8fb0def98ae7205970.png",
+    "static/media/ToDoScreen3.png": "/portfolio/static/media/ToDoScreen3.717d785362837edaf681.png",
+    "static/media/logo.png": "/portfolio/static/media/logo.0bf36e4eaa9991404ec8.png",
+    "static/media/ToDoScreen2.png": "/portfolio/static/media/ToDoScreen2.4bab889837a2da403b69.png",
+    "static/media/ToDoScreen1.png": "/portfolio/static/media/ToDoScreen1.25935f0a7cd0c2b4ff69.png",
+    "static/media/jsIcon.svg": "/portfolio/static/media/jsIcon.b8afbd65247f84b952f630d3475b7491.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/css3.svg": "/portfolio/static/media/css3.8fe37b3430423bafeedb1dc7875a165a.svg",
+    "main.01f86024.css.map": "/portfolio/static/css/main.01f86024.css.map",
+    "main.77580940.js.map": "/portfolio/static/js/main.77580940.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01f86024.css",
+    "static/js/main.77580940.js"
+  ]
+}
